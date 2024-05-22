@@ -1,5 +1,2 @@
-#ifndef UNITY_TEST_H
-#define UNITY_TEST_H
-#include <stdio.h>
+#pragma once
 int assert();
-#endif
